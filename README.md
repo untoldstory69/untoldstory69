@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on -> E2E automation and API automation.
  
-🌱 I’m currently learning -> people leadership skills.
+🌱 I’m currently learning -> UIPath.
 
  📫 How to reach me: -> kishorsharma6918@gmail.com
 
