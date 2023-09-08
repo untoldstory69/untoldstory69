@@ -1,10 +1,11 @@
 # Hi there 👋, I am Kishor Sharma, 
 ## working as QA Engineer since 2014 currently located in Brisbane, Australia.
 #### fully experienced in manual testing, creating test artifacts, E2E automation testing, API (Backend) automation, streamlining QA process in the project and leading QA team and project as test lead.
+#### UiPath Certified
 
  🔭 I’m currently working on -> E2E automation and API automation.
  
-🌱 I’m currently learning -> UIPath.
+🌱 I’m currently learning -> UIPath. >>>> UiPath RPA Associate Certified
 
  📫 How to reach me: -> kishorsharma6918@gmail.com
 
